@@ -1,5 +1,8 @@
 # Gemini Runner
 
+![Project Main Menu](start.png)
+
+
 **Gemini Runner** is a fast-paced 2D side-scrolling runner game built with **React** and **Tailwind CSS**.
 Run, jump, and dodge through beautifully themed worlds while collecting points, unlocking weapons, and customizing your character.
 
@@ -46,6 +49,12 @@ npm run dev
 
 ---
 
-Collaborators:
-Ayoub Uddin,
-Arin Guzel
+## Collaborators
+
+- [@Ayoub Uddin](https://github.com/Ayoub-Uddin)
+- [@Arin Guzel](https://github.com/aringuzel)
+- [@hamzasgit1](https://github.com/hamzasgit1)
+- [@srahman14](https://github.com/srahman14)
+
+
+
