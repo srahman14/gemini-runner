@@ -1,0 +1,4 @@
+{
+  "name": "Gemini Runner",
+  "description": "A 2D side-scrolling runner game with multiple levels, a scoring system, character customization, and a real-time interactive leaderboard. Features AI-powered level theme generation using the Gemini API."
+}
